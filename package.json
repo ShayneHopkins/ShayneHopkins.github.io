@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp-project-2025",
+  "version": "1.0.0",
+  "description": "This is a personal website built using the Hack4Impact Starter Pack!\r <I have no description, for I am indescribable>\r [Visit it Here!](https://ShayneHopkins.github.io)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShayneHopkins/ShayneHopkins.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShayneHopkins/ShayneHopkins.github.io/issues"
+  },
+  "homepage": "https://github.com/ShayneHopkins/ShayneHopkins.github.io#readme",
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}
